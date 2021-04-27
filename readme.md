@@ -10,6 +10,10 @@ Some hardware and software design of Competition in National Undergraduate IoT d
 
 ![image](https://github.com/Entropy-O/picgo/blob/master/img/PCB%20Layout.jpg)
 
+![](https://github.com/Entropy-O/picgo/img/Screenshot_2021-04-27-22-07-57-38.jpg)
+
+
+
 Features：
 
 1. Using XT60 connector, which can be easily connected to the current Li-Po 3S Battery.
