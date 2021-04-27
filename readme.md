@@ -1,4 +1,4 @@
-YuTian's Project in TianGong University.
+One Project teams with Ye and Zhao in TianGong University.
 
 Some hardware and software design of Competition in National Undergraduate IoT design and engineering training competition.
 
