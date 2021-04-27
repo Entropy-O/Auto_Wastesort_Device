@@ -10,7 +10,7 @@ Some hardware and software design of Competition in National Undergraduate IoT d
 
 ![image](https://github.com/Entropy-O/picgo/blob/master/img/PCB%20Layout.jpg)
 
-![image](https://github.com/Entropy-O/picgo/blob/master/img/Screenshot_2021-04-27-22-07-57-38.jpg))
+![image](https://github.com/Entropy-O/picgo/blob/master/img/Screenshot_2021-04-27-22-07-57-38.jpg)
 
 
 
